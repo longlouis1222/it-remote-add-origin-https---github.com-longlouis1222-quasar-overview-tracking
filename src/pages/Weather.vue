@@ -164,6 +164,7 @@ export default {
   background: url(../statics/dubai.png)
   background-size: contain
   background-position: center bottom
+  transition: all 0.3s linear
   &.underDetails-night
     background: url(../statics/night1.png)
     background-size: contain
